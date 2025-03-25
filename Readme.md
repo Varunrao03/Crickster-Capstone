@@ -14,6 +14,4 @@ To solve this Problem we have collected historical data of some players, and usi
 predicting the best players for the team that can be used in International Tournaments for winning the maximum matches.
 
 # Methodology
-![image](https://github.com/user-attachments/assets/03ed11c7-9677-41d3-988a-73a30402f93f)
-
-
+<img width="794" alt="Screenshot 2025-03-25 at 13 03 42" src="https://github.com/user-attachments/assets/c66b520e-6290-468e-b5e9-ab8f1d32cdb4" />
