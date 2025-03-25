@@ -17,11 +17,7 @@ predicting the best players for the team that can be used in International Tourn
 <img width="794" alt="Screenshot 2025-03-25 at 13 03 42" src="https://github.com/user-attachments/assets/c66b520e-6290-468e-b5e9-ab8f1d32cdb4" />
 
 # Results
-
-# Before the toss result
 <img width="794" alt="Screenshot 2025-03-25 at 13 06 03" src="https://github.com/user-attachments/assets/bbc2a4be-6b15-4678-bd74-cd41f2a6bf66" />
-# Winner Prediction
-  <img width="794" alt="Screenshot 2025-03-25 at 13 06 50" src="https://github.com/user-attachments/assets/e7f3b862-7074-48f9-a375-cfa6d3cdbabb" />
-# Target Prediction
+<img width="794" alt="Screenshot 2025-03-25 at 13 06 50" src="https://github.com/user-attachments/assets/e7f3b862-7074-48f9-a375-cfa6d3cdbabb" />
 <img width="794" alt="Screenshot 2025-03-25 at 13 07 15" src="https://github.com/user-attachments/assets/d294925f-692d-4a02-921b-3f532f31122a" />
 
