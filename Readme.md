@@ -12,3 +12,8 @@ the chances of the team winning the championship become easy.
 This problem had to be solved to generate the best players for a team for the best result.
 To solve this Problem we have collected historical data of some players, and using prediction algorithm like Random Forest algorithm we are 
 predicting the best players for the team that can be used in International Tournaments for winning the maximum matches.
+
+# Methodology
+![image](https://github.com/user-attachments/assets/03ed11c7-9677-41d3-988a-73a30402f93f)
+
+
